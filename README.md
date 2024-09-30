@@ -26,6 +26,3 @@ This project aims to analyze the gene with accession number AB000824.1 using Bio
 
 # Results Interpretation
 After running the MSA, examine the resulting aligned sequences and identify closely related organisms based on sequence similarity.
-
-# License
-This project is licensed under the MIT License.
